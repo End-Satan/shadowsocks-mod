@@ -3,4 +3,4 @@ pyOpenSSL==21.0.0
 ndg-httpsclient==0.5.1
 pyasn1==0.4.8
 pycparser==2.20
-pycryptodome==3.9.8
+pycryptodome==3.16.0
